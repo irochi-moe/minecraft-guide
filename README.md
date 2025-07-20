@@ -1,6 +1,3 @@
----
-title: minecraft guide main
---- 
 # 여러가지 Minecraft 가이드 by Irochi
 
 [최적화 가이드 기본편](optimizations.md)
