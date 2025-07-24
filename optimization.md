@@ -1,8 +1,8 @@
 ---
-title: minecraft optimization guide
+title: 최적화 가이드 기본편 by Irochi
 filename: optimization.md
 --- 
-# 닥치고 따라하는 Minecraft: Java Edition 서버 최적화
+# 최적화 가이드 기본편 by Irochi
 
 ## 시작하기 전에
 이 최적화 가이드는 최대한 보편적인 부분만을 설명합니다. 모든 최적화들이 본인의 서버에 맞을거라 생각하지 마세요. 각각의 최적화에는 전부 설명을 포함해뒀으니, 본인이 괜찮다고 생각하는걸 취사선택하는게 좋을겁니다.
