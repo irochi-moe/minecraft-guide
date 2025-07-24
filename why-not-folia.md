@@ -34,3 +34,8 @@ Folia. 즉 폴리아는 우리가 흔히 아는 Paper 버킷을 만든 곳에서
 ## 폴리아는 포기했어요. 무슨 버킷을 써야하나요?
 그냥 무조건 [Paper](https://papermc.io/downloads/paper) 아니면 [Purpur](https://purpurmc.org/download/purpur) 까지가 마지노선입니다.<br>
 제발. 다른거 쓰지 마세요. 멀티스레딩, AI 최적화 등을 주장하는 버킷의 99.9%는 개소리니까요.
+
+
+
+## Shout out to PaperMC Team!
+❤️ We always love your work!
